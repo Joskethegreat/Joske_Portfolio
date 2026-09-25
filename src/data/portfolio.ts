@@ -1,5 +1,5 @@
 export const profile = {
-  name: 'Joshua',
+  name: 'Joshua Lau',
   role: 'Software Engineer ',
   tagline: "Let's build something amazing today.",
   location: 'Melaka, Malaysia',

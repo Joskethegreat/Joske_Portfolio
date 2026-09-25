@@ -13,7 +13,7 @@ function Hero() {
       <div className="relative flex flex-col items-start gap-6">
         <p className="text-sm font-medium text-accent-light">{profile.location}</p>
         <h1 className="text-4xl font-semibold tracking-tight text-text sm:text-5xl">
-          Hi! I'm {profile.name}, your
+          Meet {profile.name}, your
           <br />
           <span className="bg-gradient-to-r from-teal-400 to-blue-500 bg-clip-text text-transparent">
             <u>{profile.role}</u>
