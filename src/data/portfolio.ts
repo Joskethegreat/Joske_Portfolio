@@ -1,7 +1,7 @@
 export const profile = {
   name: 'Joshua',
-  role: 'Software Engineer',
-  tagline: 'I build clean, reliable software — from backend systems to polished UIs.',
+  role: 'Software Engineer ',
+  tagline: "Let's build something amazing today.",
   location: 'Melaka, Malaysia',
   email: 'joshuahaojie@gmail.com',
   socials: [
@@ -12,7 +12,7 @@ export const profile = {
 
 export const about = {
   summary:
-    "I'm a software engineer who enjoys turning ideas into working products. I care about clean code, thoughtful UX, and shipping things that actually get used.",
+    'I\'m a software engineer student (Graduating in 2027) who enjoys turning ideas into working wonders. I also lean towards the philosophy "Build first, improve later."',
   skills: [
     'TypeScript',
     'React',

@@ -1,4 +1,5 @@
 import About from './components/About'
+import Awards from './components/Awards'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 import Hero from './components/Hero'
@@ -12,6 +13,7 @@ function App() {
       <main>
         <Hero />
         <About />
+        <Awards />
         <Projects />
         <Contact />
       </main>
